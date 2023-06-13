@@ -1,2 +1,2 @@
-# OKMAP
+# mapCode
 Created with CodeSandbox
